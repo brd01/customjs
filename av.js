@@ -1,7 +1,7 @@
 	  function startz(){
 
 		
-		console.log('....web');
+		console.log('....!!!web');
 /*		document.querySelectorAll('.ftr-partners-row-inner-bc a').forEach(e => e.remove());
 		document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title').innerHTML='UYGULAMALAR & LİSANS';
 		document.querySelector('#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div').appendChild(document.getElementById('seal-9d78228f-cd22-4945-8fcb-46888805eeb9'));
