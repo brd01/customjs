@@ -1,21 +1,72 @@
-//Google Tag Manager
-	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-T5WPCKW');
-//End Google Tag Managerzz
+	  function startz(){
+
+		
+		console.log('...web');
+/*		document.querySelectorAll('.ftr-partners-row-inner-bc a').forEach(e => e.remove());
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title').innerHTML='UYGULAMALAR & LİSANS';
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div').appendChild(document.getElementById('seal-9d78228f-cd22-4945-8fcb-46888805eeb9'));
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div').innerHTML+=
+		'<a href="https://prensbet.app/"><img src="https://prensdepo.com/ios.webp"></a><a href="https://prensbet.app/"><img src="https://prensdepo.com/android.webp"></a>';*/
+
+		var z = document.createElement('div');
+		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/Lejonbet/media_706_e76be44005b0f8defd523c4a31c6596b.png" alt=""> Pagcor lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> ..</div> </div></div>';
+		document.querySelector('.layout-header-holder-bc').appendChild(z);
+			
+
+		var forfooter = document.querySelector("#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div:nth-child(2)")
+		document.querySelector("#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div.ftr-partners-row-inner-bc.partners-logo-scroll").appendChild(forfooter);
 
 
-//Facebook Pixel Code
-	!function(f,b,e,v,n,t,s)
-	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];
-	s.parentNode.insertBefore(t,s)}(window, document,'script',
-	'https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '2543138819327369');
-	fbq('track', 'PageView');
-//Facebook Pixel Code
+	  }
+
+
+		function startzmobile(){
+
+		
+		console.log('....mob');
+		/*document.querySelectorAll('.ftr-partners-row-inner-bc a').forEach(e => e.remove());
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title').innerHTML='UYGULAMALAR & LİSANS';
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div').appendChild(document.getElementById('seal-9d78228f-cd22-4945-8fcb-46888805eeb9'));
+		document.querySelector('#root > div.layout-footer-holder-bc > div > div.regulation-partner > div > div').innerHTML+=
+		'<a href="https://prensbet.app/"><img src="https://prensdepo.com/ios.webp"></a><a href="https://prensbet.app/"><img src="https://prensdepo.com/android.webp"></a>';
+		*/
+
+
+		/*document.querySelector("#root > div.layout-footer-holder-bc > div > div.ftr-partners-row-bc > div").appendChild(document.getElementById('seal-9d78228f-cd22-4945-8fcb-46888805eeb9'));
+		
+
+		document.querySelector("#seal-9d78228f-cd22-4945-8fcb-46888805eeb9").style.cssText += 'position: absolute;top: 51px;';
+		document.querySelector("#root > div.layout-footer-holder-bc > div > div.ftr-partners-row-bc > div").style.cssText += 'height: 150px;position: relative;';
+
+		document.querySelector("#root > div.layout-footer-holder-bc > div > div.ftr-partners-row-bc > div").innerHTML+=
+		'<a href="https://prensbet.app/"><img class="ftr-partners-r-img" src="https://prensdepo.com/ios.webp"></a><a href="https://prensbet.app/"><img class="ftr-partners-r-img" src="https://prensdepo.com/android.webp"></a>';*/
+
+		var z = document.createElement('div');
+		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/Lejonbet/media_706_e76be44005b0f8defd523c4a31c6596b.png" alt=""> Pagcor lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> .. </div> </div></div>';
+		document.querySelector('.header-bc').appendChild(z);
+			
+	  }
+
+
+  
+  function bul(){
+
+		if(document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title')) {
+
+		startz();
+		clearInterval(myInterval);
+		console.log('ç');
+
+		}
+
+		if(document.querySelector("#root > div.layout-footer-holder-bc > div > div.ftr-payments-row-bc")) {
+
+		startzmobile();
+		clearInterval(myInterval);
+		console.log('mobile');
+
+		}
+
+  }
+
+const myInterval = setInterval(bul, 1000);
