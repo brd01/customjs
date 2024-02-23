@@ -9,7 +9,7 @@
 		'<a href="https://prensbet.app/"><img src="https://prensdepo.com/ios.webp"></a><a href="https://prensbet.app/"><img src="https://prensdepo.com/android.webp"></a>';*/
 
 		var z = document.createElement('div');
-		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/Lejonbet/media_706_e76be44005b0f8defd523c4a31c6596b.png" alt=""> Pagcor lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> ..</div> </div></div>';
+		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_c846fef30e5ebc467516ac7144afff2c.png" alt=""> Antillephone lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> ..</div> </div></div>';
 		document.querySelector('.layout-header-holder-bc').appendChild(z);
 
 		
@@ -49,7 +49,7 @@
 		'<a href="https://prensbet.app/"><img class="ftr-partners-r-img" src="https://prensdepo.com/ios.webp"></a><a href="https://prensbet.app/"><img class="ftr-partners-r-img" src="https://prensdepo.com/android.webp"></a>';*/
 
 		var z = document.createElement('div');
-		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/Lejonbet/media_706_e76be44005b0f8defd523c4a31c6596b.png" alt=""> Pagcor lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> .. </div> </div></div>';
+		z.innerHTML = '<div id="mqdisplay"><div class="marquee"><div class="img1"><img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> Güncel adresimiz <span><span>www.xxx.com</span></span>\'dur. giriş adresi her zaman sıralı olarak ilerlemektedir. <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_c846fef30e5ebc467516ac7144afff2c.png" alt=""> Antillephone lisansı kalite ve güvencesi! <img class="mqimg" src="https://cmsbetconstruct.com/storage/medias/avvabet-18751834/media_18751834_de1a139f723fe0220ddf23bf4b83ab16.png" alt=""> .. </div> </div></div>';
 		document.querySelector('.header-bc').appendChild(z);
 
 
