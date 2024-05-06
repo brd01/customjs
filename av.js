@@ -65,6 +65,25 @@
   
   function bul(){
 
+
+	  
+
+		if(document.querySelector("#root > div.layout-footer-holder-bc > div > div > div > div.footerHeader > div.footerTopButtonGroup > button")) {
+
+		startzmobile();
+		clearInterval(myInterval);
+		console.log('mobile');
+
+		} else {
+
+		startz();
+		clearInterval(myInterval);
+		console.log('ç');
+			
+		}
+	  
+
+		  /*
 		if(document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title')) {
 
 		startz();
@@ -80,6 +99,8 @@
 		console.log('mobile');
 
 		}
+
+  		*/
 
   }
 
