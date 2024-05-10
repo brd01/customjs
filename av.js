@@ -69,38 +69,19 @@
 	  
 
 		if(document.querySelector("#root > div.layout-footer-holder-bc > div > div > div > div.footerHeader > div.footerTopButtonGroup > button")) {
-
+		
+		clearInterval(myInterval);
 		startzmobile();
+		
+		} 
+
+	    if(document.querySelector("#root > div.layout-footer-holder-bc > div > div > div > div.footerHeader > div.footerTopButtonGroup")) {
+			
 		clearInterval(myInterval);
-		console.log('mobile');
-
-		} else {
-
 		startz();
-		clearInterval(myInterval);
-		console.log('ç');
 			
 		}
-	  
-
-		  /*
-		if(document.querySelector('#root > div.layout-footer-holder-bc > div > div.footer-title')) {
-
-		startz();
-		clearInterval(myInterval);
-		console.log('ç');
-
-		}
-
-		if(document.querySelector("#root > div.layout-footer-holder-bc > div > div.ftr-payments-row-bc")) {
-
-		startzmobile();
-		clearInterval(myInterval);
-		console.log('mobile');
-
-		}
-
-  		*/
+	
 
   }
 
