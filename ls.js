@@ -1,5 +1,5 @@
 
-$(document).ready( function(){
+//$(document).ready( function(){
   // Create the script element for Google Tag Manager
   var gtmScript = document.createElement('script');
   gtmScript.src = "https://www.googletagmanager.com/gtag/js?id=G-46Y6M1RE55";
@@ -17,7 +17,7 @@ $(document).ready( function(){
   // Append the scripts to the head of the document
   document.head.appendChild(gtmScript);
   document.head.appendChild(gaScript);
-});
+//});
 
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
